@@ -1,0 +1,7 @@
+ The lion is a species in the family Felidae; it is a muscular, deep-chested cat with a short, 
+ rounded head, a reduced neck and round ears, and a hairy tuft at the end of its tail.
+Family: Felidae
+Lifespan: 10 – 14 years (Adult, In the wild)
+Scientific name: Panthera leo
+Class: Mammalia
+Mass: Male: 190 kg (Adult), Female: 130 kg (Adult)

@@ -1,0 +1,9 @@
+Spiders are air-breathing arthropods that have eight legs and chelicerae with fangs 
+ able to inject venom. They are the largest order of arachnids and rank seventh in total
+ species diversity among all other orders of organisms. 
+Class: Arachnida
+Order: Araneae; Clerck, 1757
+Scientific name: Araneae
+Kingdom: Animalia
+Higher classification: Arachnid
+Lifespan: Southern black widow: 1 – 3 years, Brown recluse spider: 1 – 2 years, Goliath birdeater: 15 – 25 years

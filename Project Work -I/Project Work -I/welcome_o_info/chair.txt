@@ -1,0 +1,5 @@
+ One of the basic pieces of furniture, a chair is a type of seat.
+ Its primary features are two pieces of a durable material, attached as back and seat 
+ to one another at a 90° or slightly greater angle, with usually the four corners of
+ the horizontal seat attached in turn to four legs
+ 

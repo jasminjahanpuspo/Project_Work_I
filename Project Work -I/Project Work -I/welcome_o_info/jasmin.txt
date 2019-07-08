@@ -1,0 +1,6 @@
+Jasmine is a genus of shrubs and vines in the olive family. It contains around 200 species native to tropical and warm temperate regions of Eurasia, Australasia and Oceania. Jasmines are widely cultivated for the characteristic fragrance of their flowers.
+Scientific name: Jasminum
+Kingdom: Plantae
+Family: Oleaceae
+Order: Lamiales
+Higher classification: Jasmineae
